@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .i {
+        fill: #7c7c7c;
+      }
+
+      .j {
+        fill: #e8e8e8;
+      }
+    </style>
+  </defs>
+  <g id="a" data-name="Ebene 2">
+    <path class="j" d="M71.92,339.35H453.92c0,28.59-23.21,51.81-51.81,51.81H123.73c-28.59,0-51.81-23.21-51.81-51.81h0Z"/>
+    <path class="j" d="M163.42,235.35h0c50.5,0,91.5,41,91.5,91.5v12.5H71.92v-12.5c0-50.5,41-91.5,91.5-91.5Z"/>
+    <path class="j" d="M268.42,191.35h0c50.5,0,91.5,41,91.5,91.5v56.5H176.92v-56.5c0-50.5,41-91.5,91.5-91.5Z"/>
+    <path class="j" d="M362.42,212.35h0c50.5,0,91.5,41,91.5,91.5v35.5h-183v-35.5c0-50.5,41-91.5,91.5-91.5Z"/>
+  </g>
+  <g id="b" data-name="Ebene 3">
+    <path class="i" d="M405.79,160.39c0,18.06-8.63,34.11-21.99,44.24-6.89-1.5-14.05-2.28-21.38-2.28-9.56,0-18.81,1.33-27.58,3.81-9.69-8.4-20.99-15-33.36-19.28-4.29-7.87-6.72-16.9-6.72-26.49,0-30.66,24.85-55.52,55.51-55.52s55.52,24.86,55.52,55.52Z"/>
+    <g>
+      <g id="c" data-name="&amp;lt;Radiale Wiederholung&amp;gt;">
+        <rect class="i" x="259.29" y="141.53" width="14.52" height="39.82" transform="translate(108.85 430.22) rotate(-90.8)"/>
+      </g>
+      <g id="d" data-name="&amp;lt;Radiale Wiederholung&amp;gt;">
+        <rect class="i" x="282.99" y="81.99" width="14.52" height="39.82" transform="translate(14.84 238.94) rotate(-45.8)"/>
+      </g>
+      <g id="e" data-name="&amp;lt;Radiale Wiederholung&amp;gt;">
+        <rect class="i" x="341.84" y="56.64" width="14.52" height="39.82" transform="translate(-1.03 4.88) rotate(-.8)"/>
+      </g>
+      <g id="f" data-name="&amp;lt;Radiale Wiederholung&amp;gt;">
+        <rect class="i" x="401.38" y="80.34" width="14.52" height="39.82" transform="translate(185.58 -256.52) rotate(44.2)"/>
+      </g>
+      <g id="g" data-name="&amp;lt;Radiale Wiederholung&amp;gt;">
+        <rect class="i" x="426.73" y="139.19" width="14.52" height="39.82" transform="translate(587.03 -277.06) rotate(89.2)"/>
+      </g>
+      <g id="h" data-name="&amp;lt;Radiale Wiederholung&amp;gt;">
+        <path class="i" d="M429.63,227.32l-.28,.29c-10.29-9.05-22.43-16.05-35.76-20.35l7.49-7.7,28.55,27.76Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

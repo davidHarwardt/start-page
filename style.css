@@ -1,0 +1,135 @@
+:root
+{
+    --bg-main:      #222222;
+    --fg-main:      #f7f1ff;
+
+    --bg-sec:       #272727;
+    --fg-sec:       #69676c;
+
+    --color-red:    #d6577b;
+    --color-green:  #7bd88f;
+    --color-yellow: #fce566;
+    --color-orange: #fd9353;
+    --color-purple: #948ae3;
+    --color-blue:   #5ad4e6;
+
+    font-family: Consolas, Arial, Helvetica, sans-serif;
+}
+
+html
+{
+    background-color: var(--bg-main);
+    color: var(--fg-main);
+
+    font-size: 1.25rem;
+
+    /* text-align: center; */
+}
+
+body
+{
+    margin: 0;
+
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container
+{
+    max-width: 40rem;
+    width: 50vw;
+    min-width: fit-content;
+}
+
+.container>*
+{
+    padding: 1rem;
+    margin: 1rem;
+
+    background-color: var(--bg-sec);
+}
+
+/* clock */
+.clock-time
+{
+    font-size: 2rem;
+}
+
+.clock-date { margin-top: 0.5rem; color: var(--fg-sec); }
+
+
+/* weather */
+.weather-bar-container
+{
+    display: grid;
+    grid-template-columns: 1fr 5rem;
+}
+
+.temp { font-size: 1.5rem; }
+
+.feels-like-temp
+{
+    font-size: 0.75rem;
+    color: var(--fg-sec);
+}
+
+.descr-text { margin-top: 1rem; }
+
+/* search */
+
+.search-form
+{
+    display: grid;
+}
+
+.search-input
+{
+    background-color: inherit;
+    border: none;
+    font-size: 1rem;
+    color: inherit;
+    padding: 0.5rem;
+    background-color: var(--bg-main);
+    font-family: inherit;
+}
+
+.search-bar-container { transition: 0.25s ease-out; }
+
+.search-bar-container:focus-within
+{
+    transform: scale(1.05) translate(0, -5rem);
+    box-shadow: 0px 0px 25px 10px #181818;
+}
+
+input:focus { outline: none; }
+
+/* links */
+.quicklinks-container
+{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+.quick-link
+{
+    display: inline-block;
+    color: inherit;
+    text-decoration: none;
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+a:visited { color: inherit; }
+
+.quick-link-title
+{
+    font-weight: bold;
+    filter: saturate(0.7) brightness(1.1);
+    /* font-size: 1.2rem; */
+    margin-bottom: 0.5rem;
+}

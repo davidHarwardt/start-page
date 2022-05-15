@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .b {
+        fill: #7c7c7c;
+      }
+
+      .c {
+        fill: #e8e8e8;
+      }
+    </style>
+  </defs>
+  <path class="c" d="M56,204H438c0,28.59-23.21,51.81-51.81,51.81H107.81c-28.59,0-51.81-23.21-51.81-51.81h0Z"/>
+  <path class="c" d="M147.5,100h0c50.5,0,91.5,41,91.5,91.5v12.5H56v-12.5c0-50.5,41-91.5,91.5-91.5Z"/>
+  <path class="c" d="M252.5,56h0c50.5,0,91.5,41,91.5,91.5v56.5H161v-56.5c0-50.5,41-91.5,91.5-91.5Z"/>
+  <path class="c" d="M346.5,77h0c50.5,0,91.5,41,91.5,91.5v35.5H255v-35.5c0-50.5,41-91.5,91.5-91.5Z"/>
+  <rect class="b" x="225.38" y="423.29" width="71.65" height="13.61"/>
+  <rect class="b" x="225.38" y="423.29" width="71.65" height="13.61" transform="translate(380.63 -58.73) rotate(45)"/>
+  <rect class="b" x="225.58" y="423.37" width="71.65" height="13.61" transform="translate(691.58 168.77) rotate(90)"/>
+  <rect class="b" x="225.74" y="423.65" width="71.65" height="13.61" transform="translate(750.9 549.87) rotate(135)"/>
+  <rect class="b" x="313.62" y="325.55" width="71.65" height="13.61"/>
+  <rect class="b" x="313.62" y="325.55" width="71.65" height="13.61" transform="translate(337.36 -149.75) rotate(45)"/>
+  <rect class="b" x="313.82" y="325.63" width="71.65" height="13.61" transform="translate(682.08 -17.21) rotate(90)"/>
+  <rect class="b" x="313.98" y="325.91" width="71.65" height="13.61" transform="translate(832.42 320.63) rotate(135)"/>
+  <rect class="b" x="135.87" y="305" width="71.65" height="13.61"/>
+  <rect class="b" x="135.87" y="305" width="71.65" height="13.61" transform="translate(270.77 -30.08) rotate(45)"/>
+  <rect class="b" x="136.07" y="305.08" width="71.65" height="13.61" transform="translate(483.78 139.99) rotate(90)"/>
+  <rect class="b" x="136.23" y="305.36" width="71.65" height="13.61" transform="translate(514.45 411.23) rotate(135)"/>
+</svg>
