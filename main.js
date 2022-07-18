@@ -250,6 +250,7 @@ function links()
             color: "purple",
             links: [
                 {name: "figma",         url: "https://www.figma.com/"},
+                {name: "tldraw",        url: "https://www.tldraw.com/"},
             ],
         },
         {
